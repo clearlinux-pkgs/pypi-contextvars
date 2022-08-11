@@ -4,7 +4,7 @@
 #
 Name     : pypi-contextvars
 Version  : 2.4
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/83/96/55b82d9f13763be9d672622e1b8106c85acb83edd7cc2fa5bc67cd9877e9/contextvars-2.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/83/96/55b82d9f13763be9d672622e1b8106c85acb83edd7cc2fa5bc67cd9877e9/contextvars-2.4.tar.gz
 Summary  : PEP 567 Backport
